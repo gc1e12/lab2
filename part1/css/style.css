@@ -9,6 +9,7 @@ h1, h2 {
 	padding: 20px;
 	box-shadow:10px 10px 5px rgba(128,128,128,0.2);
 	border:1px solid #CCCC00;
+	font-family: Arial;
 }
 
 #header {
