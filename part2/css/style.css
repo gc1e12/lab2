@@ -3,7 +3,7 @@ h1, h2 {
 }
 
 #content {
-	width: 900px;
+	width: 1000px;
 	margin: 20px auto 20px auto;
 	background:#FFFFEE;	
 	padding: 20px;
@@ -45,7 +45,7 @@ h1, h2 {
 #sidebar {
 	float: right;
 	width: 350px;
-	margin-left: 150px;
+	margin-left: 50px;
 }
 
 #calculators {
