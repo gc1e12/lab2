@@ -5,6 +5,10 @@ h1, h2 {
 #content {
 	width: 900px;
 	margin: 20px auto 20px auto;
+	background:#FFFFEE;	
+	padding: 20px;
+	box-shadow:10px 10px 5px rgba(128,128,128,0.2);
+	border:1px soild #CCCC00;
 }
 
 #header {
@@ -57,6 +61,5 @@ h1, h2 {
 }
 
 #container {
-	background:#FFFFEE;	
-	padding: 20px;
+	
 }
